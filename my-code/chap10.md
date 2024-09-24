@@ -2,7 +2,8 @@
 
 ## **📚 관심사 분리**
 
-![KakaoTalk_Photo_2024-09-09-22-53-38.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/571c1952-01e0-464b-8ba7-04ce180d0108/cbad4640-593b-4e9a-9e68-bee11eb408d7/KakaoTalk_Photo_2024-09-09-22-53-38.jpeg)
+![KakaoTalk_Photo_2024-09-09-22-53-38](https://github.com/user-attachments/assets/5bb4539f-0866-4833-bed2-73552c01d4ab)
+
 
 > 이렇게 거대해진 상품 클래스에 사양 변경이 발생하면 어떻게 될까요? 변경된 부분의 영향을 받아 동작에 버그가 생기지는 않는지, 상품 클래스와 관련된 클래스를 모두 확인해 봐야 합니다. 그런데 영향 범위가 너무 넓어 개발 생산성이 저하될 것입니다
 …
