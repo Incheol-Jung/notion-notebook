@@ -82,12 +82,6 @@
    C. 수동 데이터 전송  
    D. 운영 오버헤드 증가  
 
-3. (단일) 단독 모드 커넥트의 특징으로 옳은 것은?  
-   A. 여러 워커가 동작  
-   B. 장애 시 자동 복구  
-   C. 하나의 인스턴스에서 동작  
-   D. 메타데이터를 내부 토픽에 저장  
-
 4. (다중) 단독 모드의 특징을 모두 고르시오.  
    A. 하나의 인스턴스 동작  
    B. 테스트 환경 적합  
@@ -196,7 +190,6 @@
 1. 카프카 커넥트에서 소스 커넥터와 싱크 커넥터의 차이점을 설명하시오.  
 2. Standalone Mode와 Distributed Mode의 주요 차이점을 2가지 이상 서술하시오.  
 3. Fault Tolerance란 무엇이며, 카프카 커넥트에서 어떻게 구현되는지 설명하시오.  
-4. `connect-file-source.properties`에서 `topic` 항목의 역할을 설명하시오.  
 5. `offset.flush.interval.ms` 설정의 의미를 설명하시오.  
 6. 카프카 커넥트에서 REST API를 통해 할 수 있는 작업 3가지를 쓰시오.  
 7. 미러 메이커 2.0에서 에일리어스 기능이 필요한 이유를 설명하시오.  
@@ -243,3 +236,11 @@
 8. 병렬 처리량 증가, 처리 속도 향상  
 9. 장애 워커의 태스크를 다른 워커로 재배치해 실행  
 10. 다양한 포맷 직렬화/역직렬화 지원으로 호환성 확보
+
+
+# 카프카 커넥트 활용 사례
+- https://helloworld.kurly.com/blog/kafka-connect-pipeline/
+- https://blog.soomgo.com/posts/6673bb8c52107866fb86a782?source=related_content
+- https://techblog.uplus.co.kr/debezium%EC%9C%BC%EB%A1%9C-db-synchronization-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1b6fba73010f
+- https://techblog.woowahan.com/10000/
+- https://tech.kakaopay.com/post/kakaopaysec-mongodb-cdc/
